@@ -18,7 +18,7 @@
     "REMOVE": "QUITAR",
     "GIFT": "REGALO",
     "PARTY": "GRUPO",
-    "RETRAIN": "RESETEAR",
+    "RETRAIN": "REINICIO",
     "TRAINING_POINTS": "PUNTOS",
     "RETRAIN_POPUP_TITLE": "RESETEAR HEROE?",
     "RETRAIN_POPUP_MESSAGE": "Resetear te devuelve los puntos de este heroe para usarlos de nuevo.",
